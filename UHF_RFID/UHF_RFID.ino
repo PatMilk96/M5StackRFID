@@ -1,4 +1,15 @@
-
+/*
+*******************************************************************************
+* Copyright (c) 2021 by M5Stack
+*                  Equipped with Atom-Lite/Matrix sample source code
+*                          配套  Atom-Lite/Matrix 示例源代码
+* Visit for moreinformation: https://docs.m5stack.com/en/unit/uhf_rfid
+* 获取更多资料请访问: https://docs.m5stack.com/zh_CN/unit/uhf_rfid
+*
+* Product: UHF RFID UNIT
+* Date: 2022/7/8
+*******************************************************************************
+*/
 #include "RFID_command.h"
 #include <M5Atom.h>
 UHF_RFID RFID;
